@@ -1,4 +1,5 @@
 # 💧 AquaGuard AI - Water Quality & Potability System
+click here -->> "https://water-quality-prediction-233.streamlit.app/"
 
 An intelligent, production-grade Streamlit web application for real-time water quality testing, WHO safety guideline compliance, and Machine Learning potability classification.
 
